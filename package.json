@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  
   "dependencies": {
     "daisyui": "^2.51.5",
     "firebase": "^9.19.1",
